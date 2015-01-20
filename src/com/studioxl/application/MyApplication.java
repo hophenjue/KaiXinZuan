@@ -17,7 +17,7 @@ import android.content.Context;
 
 /**
  * application类
- * @author hopehe test 团队开发同步很重要
+ * @author hopehe test 团队开发同步很重要 这个是branch
  */
 public class MyApplication extends Application {
 
