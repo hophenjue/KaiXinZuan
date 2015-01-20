@@ -17,7 +17,7 @@ import android.content.Context;
 
 /**
  * application类
- * @author hopehe test
+ * @author hopehe test 团队开发同步很重要
  */
 public class MyApplication extends Application {
 
